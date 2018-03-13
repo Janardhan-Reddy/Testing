@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         //dasldiasdasdjnkasdiuhasduhsajbdasuicasjdajsbcuoaisc
         
-        print("sssss reddy")
+        print("Leave me baby")
         print("Lakshman")
         return true
     }
