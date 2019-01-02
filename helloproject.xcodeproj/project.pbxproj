@@ -15,6 +15,7 @@
 		18061BFB2046DB4B0000E9C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18061BF92046DB4B0000E9C7 /* LaunchScreen.storyboard */; };
 		18061C062046DB4B0000E9C7 /* helloprojectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18061C052046DB4B0000E9C7 /* helloprojectTests.swift */; };
 		18061C112046DB4B0000E9C7 /* helloprojectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18061C102046DB4B0000E9C7 /* helloprojectUITests.swift */; };
+		1810A27D21DCFB2600C940E2 /* LineDrawViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1810A27C21DCFB2600C940E2 /* LineDrawViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		18061C0C2046DB4B0000E9C7 /* helloprojectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = helloprojectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18061C102046DB4B0000E9C7 /* helloprojectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = helloprojectUITests.swift; sourceTree = "<group>"; };
 		18061C122046DB4B0000E9C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1810A27C21DCFB2600C940E2 /* LineDrawViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineDrawViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				18061BED2046DB4B0000E9C7 /* AppDelegate.swift */,
 				18061BEF2046DB4B0000E9C7 /* ViewController.swift */,
+				1810A27C21DCFB2600C940E2 /* LineDrawViewController.swift */,
 				18061BF12046DB4B0000E9C7 /* Main.storyboard */,
 				18061BF72046DB4B0000E9C7 /* Assets.xcassets */,
 				18061BF92046DB4B0000E9C7 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1810A27D21DCFB2600C940E2 /* LineDrawViewController.swift in Sources */,
 				18061BF02046DB4B0000E9C7 /* ViewController.swift in Sources */,
 				18061BEE2046DB4B0000E9C7 /* AppDelegate.swift in Sources */,
 				18061BF62046DB4B0000E9C7 /* helloproject.xcdatamodeld in Sources */,
